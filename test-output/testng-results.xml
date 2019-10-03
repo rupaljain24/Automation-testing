@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27555" started-at="2019-09-27T07:04:34Z" finished-at="2019-09-27T07:05:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27555" started-at="2019-09-27T07:04:34Z" finished-at="2019-09-27T07:05:02Z">
+      <class name="com.auto.ActionsPractice">
+        <test-method status="PASS" signature="browser()[pri:1, instance:com.auto.ActionsPractice@6b9651f3]" name="browser" duration-ms="4877" started-at="2019-09-27T07:04:34Z" finished-at="2019-09-27T07:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="logIn()[pri:2, instance:com.auto.ActionsPractice@6b9651f3]" name="logIn" duration-ms="5973" started-at="2019-09-27T07:04:39Z" finished-at="2019-09-27T07:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="searchProduct()[pri:3, instance:com.auto.ActionsPractice@6b9651f3]" name="searchProduct" duration-ms="6272" started-at="2019-09-27T07:04:45Z" finished-at="2019-09-27T07:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="identifyProduct()[pri:4, instance:com.auto.ActionsPractice@6b9651f3]" name="identifyProduct" duration-ms="6049" started-at="2019-09-27T07:04:51Z" finished-at="2019-09-27T07:04:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- identifyProduct -->
+        <test-method status="PASS" signature="addToCart()[pri:5, instance:com.auto.ActionsPractice@6b9651f3]" name="addToCart" duration-ms="4325" started-at="2019-09-27T07:04:57Z" finished-at="2019-09-27T07:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- com.auto.ActionsPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
